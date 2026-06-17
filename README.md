@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Roce de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-angel/) |
+| **Get License** | [Commercial Licensing for Roce de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `60b9975930ef8ca658a31085b58df77bc7cc9e57d22351d4fc15f02a6d6d0422` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

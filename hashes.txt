@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de ángel
+
+This log tracks the cryptographic history and versioning for the song **Roce de ángel** (roce-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:31:02.433770 | `v1` | `60b9975930ef8ca658a31085b58df77bc7cc9e57d22351d4fc15f02a6d6d0422` | `91366dd57f68bcda3b5a7bc1522071127cbbb470efd71317993a800725b44722` | `2026-06-17_roce-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
