@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Roce de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-angel/) |
+| **Get License** | [Music Rights & Licensing for Roce de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tu mirada me tiene perdiendo el control
+> Un roce de ángel que quema directo en mi alma
+> Bajo las luces de neón, tú eres mi única opción
+> Acércate un poco, que esta noche no hay calma
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
